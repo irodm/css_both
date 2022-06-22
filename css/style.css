@@ -3,9 +3,13 @@
 } 
 .carousel-inner{
     width: 25%;
-    margin: 0 auto∫;
+    margin: 0 auto;
   } 
-  .text-center{
-    background-color: black;
+  .parrafo{
+    background-color: black;   
+  } 
+
+  .navbar-nav {
+    background-color: rgb(188, 133, 238);
     
   } 
