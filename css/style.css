@@ -1,0 +1,15 @@
+.lead{
+  font-size: 2rem;
+} 
+.carousel-inner{
+    width: 25%;
+    margin: 0 auto;
+  } 
+  .parrafo{
+    background-color: black;   
+  } 
+
+  .navbar-nav {
+    background-color: rgb(188, 133, 238);
+    
+  } 
